@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 340075886c47748aa8c83728ae4b7a04
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: head_PopeyeGeo
+    100002: //RootNode
+    100004: PopeyeGeo_arm_left
+    100006: PopeyeGeo_arm_rgt
+    100008: PopeyeGeo_brow_left
+    100010: PopeyeGeo_brow_rgt
+    100012: PopeyeGeo_btn01
+    100014: PopeyeGeo_btn02
+    100016: PopeyeGeo_btn03
+    100018: PopeyeGeo_hair01
+    100020: PopeyeGeo_hair02
+    100022: PopeyeGeo_hat
+    100024: PopeyeGeo_pants
+    100026: PopeyeGeo_pipe
+    100028: PopeyeGeo_shirt1
+    100030: PopeyeGeo_shoe_left
+    100032: PopeyeGeo_shoe_rgt
+    400000: head_PopeyeGeo
+    400002: //RootNode
+    400004: PopeyeGeo_arm_left
+    400006: PopeyeGeo_arm_rgt
+    400008: PopeyeGeo_brow_left
+    400010: PopeyeGeo_brow_rgt
+    400012: PopeyeGeo_btn01
+    400014: PopeyeGeo_btn02
+    400016: PopeyeGeo_btn03
+    400018: PopeyeGeo_hair01
+    400020: PopeyeGeo_hair02
+    400022: PopeyeGeo_hat
+    400024: PopeyeGeo_pants
+    400026: PopeyeGeo_pipe
+    400028: PopeyeGeo_shirt1
+    400030: PopeyeGeo_shoe_left
+    400032: PopeyeGeo_shoe_rgt
+    2100000: blinnFleshSG
+    2100002: blinn1SG
+    2100004: blinn2SG
+    2100006: blinnBlueSG
+    2100008: blinnLeatherSG
+    2100010: blinn3SG
+    2300000: head_PopeyeGeo
+    2300002: PopeyeGeo_arm_left
+    2300004: PopeyeGeo_arm_rgt
+    2300006: PopeyeGeo_brow_left
+    2300008: PopeyeGeo_brow_rgt
+    2300010: PopeyeGeo_btn01
+    2300012: PopeyeGeo_btn02
+    2300014: PopeyeGeo_btn03
+    2300016: PopeyeGeo_hair01
+    2300018: PopeyeGeo_hair02
+    2300020: PopeyeGeo_hat
+    2300022: PopeyeGeo_pants
+    2300024: PopeyeGeo_pipe
+    2300026: PopeyeGeo_shirt1
+    2300028: PopeyeGeo_shoe_left
+    2300030: PopeyeGeo_shoe_rgt
+    3300000: head_PopeyeGeo
+    3300002: PopeyeGeo_arm_left
+    3300004: PopeyeGeo_arm_rgt
+    3300006: PopeyeGeo_brow_left
+    3300008: PopeyeGeo_brow_rgt
+    3300010: PopeyeGeo_btn01
+    3300012: PopeyeGeo_btn02
+    3300014: PopeyeGeo_btn03
+    3300016: PopeyeGeo_hair01
+    3300018: PopeyeGeo_hair02
+    3300020: PopeyeGeo_hat
+    3300022: PopeyeGeo_pants
+    3300024: PopeyeGeo_pipe
+    3300026: PopeyeGeo_shirt1
+    3300028: PopeyeGeo_shoe_left
+    3300030: PopeyeGeo_shoe_rgt
+    4300000: head_PopeyeGeo
+    4300002: PopeyeGeo_arm_left
+    4300004: PopeyeGeo_arm_rgt
+    4300006: PopeyeGeo_brow_left
+    4300008: PopeyeGeo_brow_rgt
+    4300010: PopeyeGeo_btn01
+    4300012: PopeyeGeo_btn02
+    4300014: PopeyeGeo_btn03
+    4300016: PopeyeGeo_hair01
+    4300018: PopeyeGeo_hair02
+    4300020: PopeyeGeo_hat
+    4300022: PopeyeGeo_pants
+    4300024: PopeyeGeo_pipe
+    4300026: PopeyeGeo_shirt1
+    4300028: PopeyeGeo_shoe_left
+    4300030: PopeyeGeo_shoe_rgt
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
